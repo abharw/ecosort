@@ -90,8 +90,6 @@ class InferenceCamera:
         time.sleep(2)
         self.rest()
 
-
-
     def rest(self):
         self.front.start(0)
         self.back.start(0)
