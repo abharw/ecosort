@@ -31,3 +31,6 @@ This project involves capturing images using a Raspberry Pi camera, running obje
   - `asyncio`: For asynchronous tasks
   - `time`: For time-based operations
   - `base64`: For encoding images for inference
+  
+### The Website: 
+[EcoSort](https://ecosortplus.netlify.app)
