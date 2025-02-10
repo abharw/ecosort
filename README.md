@@ -1,4 +1,4 @@
-# EcoSort Inference Camera
+# EcoSort 
 
 This project involves capturing images using a Raspberry Pi camera, running object detection inference on the captured frames, and controlling a servo motor based on the detected objects. The system categorizes the objects into "recyclable" and "trash" and records the data to Firebase.
 
